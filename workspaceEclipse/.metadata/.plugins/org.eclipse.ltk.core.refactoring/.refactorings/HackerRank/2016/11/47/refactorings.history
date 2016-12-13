@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SubString.java&apos; to &apos;HackerRank/src/GoDaddy&apos;&#x0A;- Original project: &apos;HackerRank&apos;&#x0A;- Destination element: &apos;HackerRank/src/GoDaddy&apos;&#x0A;- Original element: &apos;CrackingCodingInterview.SubString.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src&lt;GoDaddy" element1="/src&lt;CrackingCodingInterview{SubString.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1479227210860" units="1" version="1.0"/>
+</session>
